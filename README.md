@@ -1,9 +1,9 @@
 ## Hi, I'm CoderSilicon 👋
 
-👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech </br>
+👩🏻‍💻 Computer Scientist sharing about tech </br>
 👩🏻‍🎓 Still a student </br>
 🎨 Researching Computer Science domains to propose a thesis </br>
-🌷 #learninginprivate in my digital garden </br>
+🌷 #voidlearning in my digital chamber </br>
 💭 Currently learning NULL(HIDDEN) </br>
 
 </br>
