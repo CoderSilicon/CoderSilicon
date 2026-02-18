@@ -1,12 +1,18 @@
-## Hi, I'm CoderSilicon 👋
+# Hi, I'm CoderSilicon 👋
 
-👩🏻‍💻 Computer Scientist sharing about tech </br>
-👩🏻‍🎓 Still a student </br>
-🎨 Researching Computer Science domains to propose a thesis </br>
-🌷 #voidlearning in my digital chamber </br>
-💭 Currently learning NULL(HIDDEN) </br>
+> Computer Scientist in progress.  
+> Exploring systems. Studying patterns. Questioning everything.
 
-</br>
+🧠 Researching computer science domains to architect a thesis  
+📚 Student of the machine — and the mind behind it  
+🧩 Deconstructing abstractions, one layer at a time  
+🌒 Practicing #voidlearning in the digital chamber  
+⌛ Currently learning: NULL (hidden)
+
+---
+System status: stable.  
+Curiosity: infinite.
+
 
 ## 🧠 Tech Stack
 
@@ -14,13 +20,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 
