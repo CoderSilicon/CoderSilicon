@@ -4,7 +4,7 @@
 > Exploring systems. Studying patterns. Questioning everything.
 
 🧠 Researching computer science domains to architect a thesis  
-📚 Student of the machine — and the mind behind it  
+📚 Still a Student <br/>
 🧩 Deconstructing abstractions, one layer at a time  
 🌒 Practicing #voidlearning in the digital chamber  
 ⌛ Currently learning: NULL (hidden)
