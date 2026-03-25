@@ -87,6 +87,4 @@ Curiosity: infinite.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=codersilicon&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=codersilicon&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codersilicon&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
