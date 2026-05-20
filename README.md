@@ -1,21 +1,23 @@
 # Hi, I'm CoderSilicon 👋
+```txt
+[System Status: Stable]   [Curiosity: Infinite]   [OS: Arch Linux]
 
-> Computer Scientist in progress.  
-> Exploring systems. Studying patterns. Questioning everything.
+```
 
-🧠 Researching computer science domains to architect a thesis  
-📚 Still a Student <br/>
-🧩 Deconstructing abstractions, one layer at a time  
-🌒 Practicing #voidlearning in the digital chamber  
-⌛ Currently learning: NULL (hidden)
-
----
-System status: stable.  
-Curiosity: infinite.
+> Computer Scientist in progress.<br/>
+> Deconstructing abstractions, one layer at a time.<br/>
+> Practicing void learning in the digital chamber.<br/>
 
 
-## 🧠 Tech Stack
 
+## 🧠 Research & Focus Areas
+
+* **Low-Level Systems:** Building memory-efficient tools, analyzing binaries, and exploring compilation pipelines.
+* **Architecture:** Designing decentralized, peer-to-peer network topologies without intermediaries.
+* **Data Foundations:** Investigating high-performance data processing pipelines and bare-metal execution.
+
+
+## Core Stack
 ### 💻 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -32,8 +34,6 @@ Curiosity: infinite.
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-
 
 
 ### 🛠 Backend & APIs
