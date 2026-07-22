@@ -1,4 +1,4 @@
-# Hi, I'm CoderSilicon 👋
+# Hi, I'm CoderSilicon aka 0xCS 👋
 ```txt
 [System Status: Stable]   [Curiosity: Infinite]   [OS: Arch Linux]
 
